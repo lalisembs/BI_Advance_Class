@@ -7,7 +7,7 @@ Exec msdb.dbo.sp_send_dbmail
 
 Exec msdb.dbo.sp_send_dbmail
 
-@profile_name = 'Tsega_Profile',
+@profile_name = 'Tsega_Prof',
 @recipients = 'tsega492@gmail.com',
 @body = 'The store procedure finished, thanks' ,
 @subject = 'Email Deliver' ,
