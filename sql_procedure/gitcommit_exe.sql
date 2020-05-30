@@ -21,7 +21,7 @@ Create Table Loan.Borrower
 FirstName varchar(250)  not null ,
 LastName varchar(250) not null,
 Email varchar(250) not null, 
-Cell_Phone varchar (20) null null,
+Cell_Phone varchar (20) null ,
 City varchar(250) not null,
 State varchar(250) not null,
 zip_code int
