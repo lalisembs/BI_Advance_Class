@@ -44,3 +44,12 @@ values ('Tsega', 'Tefera', 'tsega492@gmail.com','301-793-7670','Silver Spring', 
 
 
 --------you inserting values----------------
+
+--1. create branch tsega_branch_1
+--2. go to the branch you created
+--3. open gitcommit_exe.sql in ssms
+--4. inserted values 
+--5. save it
+--6. add and commit 
+--7. push it 
+--8. create pull request
